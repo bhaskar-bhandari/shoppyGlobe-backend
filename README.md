@@ -25,5 +25,5 @@ Ensure you have the following installed:
 - [MongoDB](https://www.mongodb.com/)
 
 ## Screenshot
-[Screenshot (306)](https://github.com/user-attachments/assets/939b6f18-73f1-4ce9-b633-e51d9221bcc5)
-[Screenshot (307)](https://github.com/user-attachments/assets/dd28df76-f928-4573-8923-110a2aebe475)
+![Screenshot (306)](https://github.com/user-attachments/assets/939b6f18-73f1-4ce9-b633-e51d9221bcc5)
+![Screenshot (307)](https://github.com/user-attachments/assets/dd28df76-f928-4573-8923-110a2aebe475)
